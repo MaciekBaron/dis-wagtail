@@ -54,7 +54,7 @@
     "postcss-custom-properties": "^15.0.4",
     "postcss-loader": "^8.2.1",
     "prettier": "^3.9.10",
-    "sass": "^1.107.1",
+    "sass": "^1.108.1",
     "sass-loader": "^17.1.0",
     "stylelint": "^17.16.0",
     "stylelint-webpack-plugin": "^5.1.0",
